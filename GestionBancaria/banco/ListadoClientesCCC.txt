@@ -1,0 +1,2 @@
+nombre=Pas, apellidos=asas, DNI=47497498D ES48795648596321548756
+Número total de cuentas: 1

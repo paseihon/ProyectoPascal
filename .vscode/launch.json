@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "App.Principal",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Mireserva",
+            "request": "launch",
+            "mainClass": "dam2.salohabanadailoge.Mireserva",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Confirmar",
+            "request": "launch",
+            "mainClass": "dam2.salohabanadailoge.Confirmar",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "SalonHabana",
+            "request": "launch",
+            "mainClass": "dam2.salohabanadailoge.SalonHabana",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "MiRelojPascalSeihon",
+            "request": "launch",
+            "mainClass": "dam2.di03_tareapascalseihon.MiRelojPascalSeihon",
+            "projectName": "DI03_TareaPascalSeihon"
+        },
+        {
+            "type": "java",
+            "name": "SalonHabana",
+            "request": "launch",
+            "mainClass": "dam2.salohabanadailoge.SalonHabana",
+            "projectName": "SaloHabanaDailoge"
+        },
+        {
+            "type": "node-terminal",
+            "name": "JavaScript Debug Terminal",
+            "request": "launch",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
