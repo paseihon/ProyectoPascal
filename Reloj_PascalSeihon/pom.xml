@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>DAM2</groupId>
+    <artifactId>DI03_TareaPascalSeihon</artifactId>
+    <version>1.0-SNAPSHO</version>
+    <packaging>jar</packaging>
+    <dependencies>
+        <dependency>
+            <groupId>dam2</groupId>
+            <artifactId>JpanelImagen</artifactId>
+            <version>1.0-SNAPSHO</version>
+        </dependency>
+        <dependency>
+            <groupId>DAM2</groupId>
+            <artifactId>Textocampo</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>dam2</groupId>
+            <artifactId>RelojPersonalizado</artifactId>
+            <version>1.0-SNAPSHO</version>
+        </dependency>
+    </dependencies>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
+        <exec.mainClass>dam2.di03_tareapascalseihon.DI03_TareaPascalSeihon</exec.mainClass>
+    </properties>
+</project>
